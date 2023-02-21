@@ -1,0 +1,27 @@
+package a_fundamentos;
+
+public class Temperatura {
+
+	public static void main(String[] args) {
+		// (°F - 32) x 5/9 = °C
+		
+		final double FATOR = (5.0/9.0);
+		final int AJUSTE = - 32;
+		
+		double fahrenheit =  86;
+		double celcius = (fahrenheit + AJUSTE) * FATOR;
+		
+		System.out.println("A temperatura de " + fahrenheit + "°F são "+ celcius + "°C.");
+		
+		// Ctrl + Alt + Baixo ou cima = Duplica linha
+		// Alt + Baixo ou cima = Movimenta a linha
+		
+		fahrenheit = 150;
+		celcius = (fahrenheit + AJUSTE) * FATOR;
+		System.out.println("A temperatura de " + fahrenheit + "°F são "+ celcius + "°C.");
+
+		
+
+	}
+
+}

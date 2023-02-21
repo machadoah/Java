@@ -1,0 +1,28 @@
+
+# TIPOS PRIMITIVOS
+
+			1byte = 8bits
+	
+	# Tipos numéricos
+	
+		A diferença de bytes representa o valor de armazenamento
+		
+		- Inteiros
+		
+		Byte	=> 1byte	(-128 até +127)
+		Short	=> 2bytes	(+- 32.767)
+		Int		=> 4bytes	(+- 2.7bi) (DEFAULT)*
+		Long	=> 8bytes 
+		
+		- Reais
+		
+		Float	=> 4bytes
+		Double	=> 8bytes (DEFAULT)*
+	
+	# Char
+	
+		'A' = 65	=> caractere unicode
+	
+	# Boolean
+	
+		false ou true

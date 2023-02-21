@@ -1,0 +1,20 @@
+
+#FUNDAMENTOS
+
+- PrimeiroPrograma
+- AreaCircunferencia
+- Temperatura
+- Inferencia
+- TiposPrimitivos
+- NotacaoPonto
+- Import
+- TipoString
+- Console
+- PrimitivoVsObjeto
+- Wrappers
+- ConversaoTipoPrimitivoNumerico
+- ConversaoNumeroString
+- ConversaoStringNumero
+	
+
+	
