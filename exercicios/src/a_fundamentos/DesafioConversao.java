@@ -28,6 +28,8 @@ public class DesafioConversao {
 		double media = ((sal1 + sal2 + sal3) / 3);
 		
 		System.out.println("A média dos salários é " + media);
+		
+		entrada.close();
 
 	}
 

@@ -1,0 +1,22 @@
+
+	JRE							vs			JDK
+	
+	Java Runtime Envoriment		||			Java Development Kit
+	- Usuário					||			- Desenvolvedor
+	
+	
+	
+
+	JVM -> Java Virtual Machine
+	
+	.java -> .clas -> bytecode -> SO
+	
+	É o tradutor de código de bytecode para o modo que o SO está 
+	
+	OBS:
+	
+	Javac é o compilador
+	Java é o responsavel por chamar a maquina virtual para executar
+	
+	
+	

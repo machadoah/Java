@@ -16,7 +16,21 @@
 - ConversaoNumeroString
 - ConversaoStringNumero
 * DesafioConversao
-- Aritmeticos
+
+	# OPERADORES
+	
+	- Aritmeticos
+	* DesafioAritmeticos
+	- Logicos
+	* DesafioLogicos
+	- Relacionais
+	- Atribuicao
+	- Unarios
+	- Ternario
+	
+- TipoStringEquals
+- JDKvsJRE
+* DesafioCalculadora
 	
 
 	

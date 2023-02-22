@@ -1,0 +1,37 @@
+
+		TABELA VERDADE 'E' (&&)
+	
+		1ª		2ª		R
+		
+		V	e	V	=	V
+		V	e	F	=	F
+		F	e	V	=	F
+		F	e	F	=	F
+		
+		TABELA VERDADE 'OU' (||)
+	
+		1ª		2ª		R
+		
+		V	ou	V	=	V
+		V	ou	F	=	V
+		F	ou	V	=	V
+		F	ou	F	=	F
+		
+		TABELA VERDADE 'XOR' - OU exclusivo (^)
+	
+		1ª		2ª		R
+		
+		V	xor	V	=	F
+		V	xor	F	=	V
+		F	cor	V	=	V
+		F	xor	F	=	F
+		
+		TABELA VERDADE 'NÃO' (!)
+	
+		1ª		R
+		
+		!V	=	F
+		!F	=	V
+
+		
+		
