@@ -1,4 +1,4 @@
-package b_controle;
+package b_controle.condicionais;
 
 import java.util.Locale;
 import java.util.Scanner;

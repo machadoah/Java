@@ -1,9 +1,20 @@
 
 # CONTROLE
 
+# condicional
+
 - ControleIf
 * DesafioIf
 - ControleIfElse
 - ControleIfElseIf
 * DesafioDiaSemana
-* DesafioDiaSemana
+* DesafioDiaSemana2
+
+# repetição
+
+- WhileDeterminado
+- For1
+- WhileIndeterminado
+- DoWhile
+- DoWhile2
+* DesafioWhile

@@ -1,4 +1,4 @@
-package b_controle;
+package b_controle.condicionais;
 
 import javax.swing.JOptionPane;
 
