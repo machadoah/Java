@@ -1,6 +1,5 @@
 package b_controle.condicionais;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class ControleIf {

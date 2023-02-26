@@ -10,6 +10,15 @@
 * DesafioDiaSemana
 * DesafioDiaSemana2
 
+- SwitchSemBreak
+- SwitchComBreak
+
+- Break
+- Continue
+
+- BreakRotulado
+- ContinueRotulado
+
 # repetição
 
 - WhileDeterminado
@@ -18,3 +27,7 @@
 - DoWhile
 - DoWhile2
 * DesafioWhile
+- For1
+- For2
+- For3
+* DesafioFor
